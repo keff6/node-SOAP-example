@@ -1,0 +1,14 @@
+{
+  "name": "wsdl-example",
+  "version": "1.0.0",
+  "description": "Example on how to consume a SOAP web service using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Fallas",
+  "license": "ISC",
+  "dependencies": {
+    "easy-soap-request": "^2.3.0"
+  }
+}
